@@ -5,4 +5,4 @@ matplotlib
 seaborn
 plotly
 scikit-learn
--e .  # Uncomment this line if you want to install the current directory as a package
+#-e.  # Uncomment this line if you want to install the current directory as a package
