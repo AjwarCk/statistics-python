@@ -175,3 +175,6 @@ cython_debug/
 
 # Ignore vs code workspace settings
 .vscode/
+
+# Custom ignore
+.DS_Store
